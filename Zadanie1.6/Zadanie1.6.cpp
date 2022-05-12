@@ -51,7 +51,7 @@ while (licznik >= 1)
 //tutaj wyświetl sobie zmienne il_* które wyświetlą Ci nominały w takiej ilości, aby było ich najmniej. 
 
 
-
+//
 //od magdy
 {
     float amount = 1410;
