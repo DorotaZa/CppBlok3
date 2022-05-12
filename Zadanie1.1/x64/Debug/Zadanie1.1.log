@@ -1,0 +1,5 @@
+﻿  Zadanie1.1.cpp
+C:\C++-SDA\CppBlok3\Zadanie1.1\Zadanie1.1.cpp(39,28): warning C4552: '>': result of expression not used
+C:\C++-SDA\CppBlok3\Zadanie1.1\Zadanie1.1.cpp(39,42): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+C:\C++-SDA\CppBlok3\Zadanie1.1\Zadanie1.1.cpp(39,43): error C2059: syntax error: ')'
+C:\C++-SDA\CppBlok3\Zadanie1.1\Zadanie1.1.cpp(40,13): error C2143: syntax error: missing ';' before '{'
