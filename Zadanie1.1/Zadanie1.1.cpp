@@ -47,7 +47,8 @@
 
     }
 
-
+// KOmentarz testowy
+// 
 //    //ternary
 //    int t = 0;
 //    std::cout << "enter the number: ";
