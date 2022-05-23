@@ -81,6 +81,7 @@ int main()
 //od Slawomira
 #include <iostream>
 #include <string>
+
 bool czyJestPalindrom(std::string str)
 {
     int dl = str.size(); //zwrocenie dlugosci - to samo co length

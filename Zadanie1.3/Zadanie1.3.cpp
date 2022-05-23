@@ -1,7 +1,7 @@
 ﻿//Zad1.3
-// Sprawdź, czy wartość zmiennej pobranej od użytkownika jestwiększa, mniejsza, czy równa zero
+// Sprawdź, czy wartość zmiennej pobranej od użytkownika jest większa, mniejsza, czy równa zero
 //(wypisz na ekranie odpowiedni komunikat).
-//Optymalizacyjnie (do zapamietania): wieksza, mniejsza, 0
+//Optymalizacyjnie (do zapamietania): wieksza, mniejsza, 0.
 
 #include <iostream>
 
@@ -22,6 +22,6 @@ int main()
     }
     else
     {
-        std::cout << "Liczba rowna od 0." << std::endl;
+        std::cout << "Liczba rowna 0." << std::endl;
     }
 }
